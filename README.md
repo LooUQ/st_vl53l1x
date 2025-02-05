@@ -1,3 +1,6 @@
+# This is a rough, immature project right now! 
+## Part of a customer POC that served its purpose back then. I do plan on improving it in the coming months for another project which is production. Note that project will not be ESP-IDF, but rather Nordic NCS (Zephyr).
+
 # LooUQ ESP-IDF Component for STMicroelectronics (ST) VL53L1X time-of-flight (TOF) distance sensor
 
 This package allows for inclusion of the VL53L1X TOF sensor driver provided by STMicroelectronics in your Espressif ESP-IDF projects as an ESP-IDF component.
